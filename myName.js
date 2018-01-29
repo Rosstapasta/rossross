@@ -1,1 +1,3 @@
-var myName = "Eric"; 
+var myName = "Eric";
+
+blah blah blah
